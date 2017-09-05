@@ -16,7 +16,7 @@ import {
 
 
 } from 'react-native';
-export default class HomePage extends Component {
+export default class FavoritePage extends Component {
     constructor(props) {
         super(props);
         this.state = {
